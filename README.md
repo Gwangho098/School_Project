@@ -1,2 +1,2 @@
-# School_project
-학교 생활 중 사용한 프로젝트 모음
+# Seats-arranging
+자리배치 프로그램(+ 앞자리 앉기, 전자리 앉지 않기)
